@@ -98,6 +98,10 @@ AI-Kinematics-Trainer/
 
 └── README.md
 
-<img width="1517" height="839" alt="image" src="https://github.com/user-attachments/assets/ec046b6a-0419-4ef2-bf04-36ba4a102bd6" />
+<img width="1024" height="1024" alt="Flowchart" src="https://github.com/user-attachments/assets/cae6e31a-e023-4b0e-a81e-c67625d04bed" />
+
+
+
+
 
 
