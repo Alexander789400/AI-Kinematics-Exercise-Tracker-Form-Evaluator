@@ -45,7 +45,10 @@ Weekly Workout Plan Generator
 - Feedback displayed + spoken aloud  
 - Weekly plan shown on the dashboard  
 
----
+---<img width="1024" height="1024" alt="Flowchart" src="https://github.com/user-attachments/assets/2dc2e11c-eeda-4193-a93d-383d6af857af" />
+
+
+
 
 ## Tech Stack
 
@@ -98,7 +101,6 @@ AI-Kinematics-Trainer/
 
 └── README.md
 
-<img width="1024" height="1024" alt="Flowchart" src="https://github.com/user-attachments/assets/cae6e31a-e023-4b0e-a81e-c67625d04bed" />
 
 
 
